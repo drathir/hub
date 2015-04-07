@@ -1,2 +1,7 @@
-/app/config/app.php
+/app/Config/App.php
+/app/Events/logs/*
+/app/Events/command.log
+/app/Events/debug.log
+
 /vendor/*
+/public/assets/avatars/*
