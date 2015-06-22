@@ -1,7 +1,4 @@
-/app/Config/App.php
-/app/Events/logs/*
-/app/Events/command.log
-/app/Events/debug.log
-
-/vendor/*
-/public/assets/avatars/*
+/public/assets/avatars
+/vendor
+/node_modules
+.env
