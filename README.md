@@ -1,6 +1,4 @@
-# Hub v 0.6
-
-## Note: Still in development, not recommended for production use!
+# Hub
 
 An api and web frontend network utility for the Hyperboria network.
 
@@ -17,7 +15,7 @@ Hub can monitor the network using any connected cjdns node's admin API, creating
 
 ## Dependencies
 
- - PHP 5.5+
+ - PHP 5.6+
  - Cjdns + Cjdns Admin API
  - Composer
  - Laravel
@@ -37,3 +35,4 @@ TODO
 ## License
 
 TODO
+=======
